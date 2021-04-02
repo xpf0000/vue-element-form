@@ -1,6 +1,6 @@
 {
   "name": "@xpf0000/vue-element-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "xu pengfei 250881478@qq.com",
   "main": "src/index.js",
   "unpkg": "src/index.js",
@@ -23,13 +23,9 @@
     ]
   },
   "dependencies": {
-    "@xpf0000/dom-points": "^1.0.6",
     "element-ui": "^2.13.2",
-    "file-saver": "^2.0.5",
-    "json2csv": "^5.0.6",
     "vue": "^2.6.11",
-    "vuedraggable": "^2.24.3",
-    "xlsx": "^0.16.9"
+    "vuedraggable": "^2.24.3"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-umd": "^7.13.0",
